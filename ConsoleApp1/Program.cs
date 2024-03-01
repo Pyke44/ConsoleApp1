@@ -10,7 +10,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //Test für github
+            Console.WriteLine("KFC ist super Thicc");
+            Console.ReadLine();
+            Console.WriteLine("Kek Kek");
+            Console.ReadLine();
         }
     }
 }
